@@ -23,3 +23,7 @@ This project analyses public transport delay data using Python and identifies pa
 1. Install Python 3
 2. Download the project files
 3. Run: python main.py
+
+## Sample Output
+
+![Delay Chart](q1_chart.png)

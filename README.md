@@ -18,3 +18,8 @@ This project analyses public transport delay data using Python and identifies pa
 - Working with real datasets
 - Data analysis and classification
 - Problem solving using logic
+
+## How to run
+1. Install Python 3
+2. Download the project files
+3. Run: python main.py
